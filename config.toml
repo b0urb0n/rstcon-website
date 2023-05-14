@@ -1,0 +1,4 @@
+baseURL = 'http://rst-con.org/'
+languageCode = 'en-us'
+title = 'RST CON'
+theme = 'ananke'
