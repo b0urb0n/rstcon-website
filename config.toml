@@ -1,4 +1,4 @@
-baseURL = 'http://rst-con.org/'
+baseURL = 'http://www.rst-con.org/'
 languageCode = 'en-us'
 title = 'RST CON'
 theme = 'ananke'
